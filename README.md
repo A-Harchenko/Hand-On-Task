@@ -1,0 +1,1 @@
+# Adding-same-resource-for-some-provider
